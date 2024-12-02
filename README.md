@@ -97,3 +97,7 @@ Incluye un campo para introducir un porcentaje de ajuste global que se aplicará
    - Resaltar filas en modo de edición o eliminación.
 3. **Paginación**:
    - Manejar grandes cantidades de empleados con paginación.
+4. **Base de datos**:
+   - Implementar una base de datos para guardar la información.
+5. **Cuentas de usuarios**:
+   - Implementar un sistema de cuentas de usuario.
